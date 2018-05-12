@@ -1,0 +1,38 @@
+_repo: Fungi--Their-Nature-and-Uses_30181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooke, M. C. (Mordecai Cubitt)
+    alias: Cooke, Mordecai Cubitt
+    birthdate: 1825
+    deathdate: 1914
+    gutenberg_agent_id: '34419'
+    url: http://www.gutenberg.org/2009/agents/34419
+    wikipedia: http://en.wikipedia.org/wiki/Mordecai_Cubitt_Cooke
+  editor:
+    agent_name: Berkeley, M. J. (Miles Joseph)
+    alias: Berkeley, Miles Joseph
+    birthdate: 1803
+    deathdate: 1889
+    gutenberg_agent_id: '34420'
+    url: http://www.gutenberg.org/2009/agents/34420
+    wikipedia: http://en.wikipedia.org/wiki/Miles_Joseph_Berkeley
+description: ''
+gutenberg_bookshelf: Mycology
+gutenberg_issued: '2009-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30181'
+  lccn: s38000023
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fungi'
+- !lcc 'QK'
+title: 'Fungi: Their Nature and Uses'
+url: http://www.gutenberg.org/ebooks/30181
